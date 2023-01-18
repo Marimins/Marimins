@@ -1,4 +1,11 @@
-### Hi there 👋
+###
+![image](https://user-images.githubusercontent.com/64779806/213293733-6d1d7687-3445-41d5-bcd6-47ea356b37b0.png)
+
+
+
+
+
+Hi there 👋
 I'm Mariam. Junior QA specialist.
 
 How to reach me: marimins87@gmail.com
