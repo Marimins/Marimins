@@ -3,20 +3,21 @@
 
 
 # Hi 👋 I'm Mariam Minasyan
-____
 ## A passionate QA Engineer
+___
+### 🌱I'm currently learning Testing
 
-🌱I'm currently learning Testing
 > 📫 How to reach me: 
 
-  + [My Email](marimins87@gmail.com)
-  + [![image](https://user-images.githubusercontent.com/64779806/213655323-f0fa4ddb-7d5d-4e05-b056-462459d72801.png/width="22px")
-My Telegram](https://t.me/+34679439202)
+  + [My Email](<mailto:marimins87@gmail.com>)
+  + [My Telegram](https://t.me/+34679439202)
 
-### **Languages and Tools:**
-![ Header ](<img src="https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=Postman&logoColor=black"/>) 
-<img src="https://img.shields.io/badge/-white?style=for-the-badge&logo=MySQL&logoColor=blue&orange"/> <img src="https://img.shields.io/badge/-white?style=for-the-badge&logo=Jira&logoColor=blue"/> <img src="https://img.shields.io/badge/-white?style=for-the-badge&logo=Git&logoColor=orange"/> <img src="https://img.shields.io/badge/-black?style=for-the-badge&logo=Apache JMeter&logoColor=white"/>
-
-+ 
-+
-+
+>> ### **Languages and Tools:**
+<img src="https://img.shields.io/badge/Postman-white?style=for-the-badge&logo=Postman&logoColor=orange"/>
+<img src="https://img.shields.io/badge/MySQL-white?style=for-the-badge&logo=MySQL&logoColor=blue&orange"/>
+<img src="https://img.shields.io/badge/Jira-white?style=for-the-badge&logo=Jira&logoColor=blue"/>
+<img src="https://img.shields.io/badge/Git-white?style=for-the-badge&logo=Git&logoColor=orange"/>
+<img src="https://img.shields.io/badge/Jmeter-white?style=for-the-badge&logo=Apache JMeter&logoColor=black"/>
+<img src="https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=JavaScript&logoColor=blackyellow"/>
+<img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black"/>
+<img src="https://img.shields.io/badge/Photoshop-white?style=for-the-badge&logo=AdobePhotoshop&logoColor=blue"/>
