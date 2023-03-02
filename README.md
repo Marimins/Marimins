@@ -12,7 +12,7 @@ ___
   + [Email](<mailto:marimins87@gmail.com>)
   + [Telegram](https://t.me/+34679439202)
   + [Linkedin](https://www.linkedin.com/in/mariam-minasyan-484224229?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BJXPssh7gRjekE6lHaVP4LQ%3D%3D)
-  + [My CV](https://drive.google.com/file/d/1pvfDDwrRnPLQuK6jYOMp18xQzZ_UdCss/view?usp=sharing)
+  + [My CV](https://drive.google.com/file/d/1iTUdRb8056LRrzJOUShinNvrEi8aCo95/view?usp=sharing)
 
 >> ### **Languages and Tools:**
 
