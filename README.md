@@ -2,7 +2,7 @@
 
 
 
-# Hi 👋 I'm Mariam Minasyan
+# Hi 👋 I'm Mariam
 ## A passionate QA Engineer
 ___
 ### 🌱I'm currently learning Testing
