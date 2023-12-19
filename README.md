@@ -5,7 +5,7 @@
 # Hi 👋 I'm Mariam
 ## A passionate QA Engineer
 ___
-### 🌱I'm currently learning Testing
+### 🌱I'm currently learning QA Automation Js
 
 > ### 📫 How to reach me:
 > 
